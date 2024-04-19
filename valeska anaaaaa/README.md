@@ -1,0 +1,1 @@
+# JavaScript-gerador-de-senhas
